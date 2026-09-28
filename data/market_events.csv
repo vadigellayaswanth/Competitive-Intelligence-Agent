@@ -1,0 +1,14 @@
+timestamp,company,event_type,title,description,impact_score
+2026-01-10,Flipkart,Pricing,Lower-cost delivery membership,"Hypothetical synthetic event: Flipkart introduced a lower-cost delivery membership for frequent shoppers.",8
+2026-02-08,JioMart,Delivery,Same-day delivery,"Hypothetical synthetic event: JioMart introduced same-day delivery in selected synthetic-market cities.",8
+2026-03-12,Swiggy,Product Update,Quick-commerce expansion,"Hypothetical synthetic event: Swiggy expanded a quick-commerce delivery feature aimed at faster grocery fulfillment.",8
+2026-04-05,Flipkart,Customer Feedback,Delivery feedback,"Synthetic customer feedback praised affordability but requested more predictable delivery windows.",7
+2026-05-14,JioMart,Pricing,Promotional pricing campaign,"Hypothetical synthetic event: JioMart introduced promotional pricing on selected grocery categories.",7
+2026-06-18,Swiggy,Customer Feedback,Delivery fee feedback,"Synthetic users praised delivery speed but reported that convenience fees felt high.",7
+2026-07-09,Flipkart,Pricing,Membership promotion,"Hypothetical synthetic event: Flipkart introduced a second membership promotion with additional delivery benefits.",9
+2026-07-28,JioMart,Product Update,Scheduled delivery,"Hypothetical synthetic event: JioMart added scheduled delivery for recurring household purchases.",7
+2026-08-16,Swiggy,Pricing,Membership discount,"Hypothetical synthetic event: Swiggy introduced a membership discount designed to reduce delivery fees for frequent users.",9
+2026-08-29,Flipkart,Customer Feedback,Membership feedback,"Synthetic customer feedback described the membership offer as affordable and useful for frequent shoppers.",8
+2026-09-12,JioMart,Customer Feedback,Scheduled delivery feedback,"Synthetic users responded positively to scheduled delivery but requested broader availability.",6
+2026-09-24,Swiggy,Product Update,Delivery tracking,"Hypothetical synthetic event: Swiggy added improved delivery tracking with more precise arrival updates.",8
+2026-09-24,Amazon,Our Product,Amazon competitive position,"Synthetic target-company record: Amazon monitors pricing, delivery, product updates, and customer feedback across its competitive landscape.",9
